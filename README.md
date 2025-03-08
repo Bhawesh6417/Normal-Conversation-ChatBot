@@ -1,8 +1,8 @@
-**Gemini Chatbot**
+Gemini Chatbot
 
 This is a simple chatbot powered by Google's Gemini API. The chatbot interacts with users in a loop, generating responses based on user input until the user decides to quit.
 
-**Prerequisites**
+Prerequisites
 
 Python installed on your system
 
